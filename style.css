@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(42, 10, 10);
+}
+
+#main {
+  background-color: white;
+  margin-top: 5%;
+  margin-left: 40%;
+  margin-right: 10%;
+  height: 650px;
+  width: 350px;
+  padding-top: 10px;
+}
+#img1 img {
+  width: 40px;
+  height: auto;
+  margin-left: 35%;
+}
+#img1 span {
+  position: absolute;
+  padding-top: 8px;
+
+  font-size: 25px;
+  font-weight: bold;
+}
+#fac input {
+  background-color: rgb(95, 95, 209);
+  color: white;
+  border: 1px solid black;
+  width: 250px;
+  border-radius: 20px;
+  height: 30px;
+  margin-left: 40px;
+  padding-top: 0cm;
+}
+.p{
+ 
+  margin-left: 150px;
+}
+.fac1 input{
+  margin-left: 40px;
+  border: 1px solid black;
+  width: 250px;
+  height: 30px;
+}
+#em{
+  padding-top: 20px;
+}
+#em input{
+  border: 1px solid black;
+  width: 250px;
+  color: blueviolet;
+  height: 30px;
+  margin-left: 35px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+#final input{
+  border: 1px solid black;
+  width: 250px;
+  height: 30px;
+  margin-left: 40px;
+  margin-top   : 40px;
+  background-color: greenyellow;
+} 
